@@ -1,4 +1,4 @@
-## Olá, sou desenvolvedor web full stack 👋
+## Desenvolvedor Web Full Stack 👋
   
 <!--
 **GabrielHonegger/GabrielHonegger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
